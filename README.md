@@ -16,7 +16,7 @@ The main pages of viralroll, thegeeknews, and morioh.net have the exact same pag
 
 " Protect your Node.js app from Cross-Site Request Forgery"
 
-- Reddit link: https://archive.is/36Q0t (note how it links to dev.thegeeknews.com)
+- Reddit link: https://archive.is/36Q0t and https://archive.is/3FD8u (note how it links to dev.thegeeknews.com)
 
 - dev.thegeeknewslink: http://archive.is/Ov7ep (when clicking this on reddit, it redirects to morioh, note how archive shows it got redirected)
 
