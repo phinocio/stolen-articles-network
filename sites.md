@@ -1,0 +1,6 @@
+- morioh.com
+- morioh.net
+- codequs.com
+- dev.thegeeknews.net
+- viralroll.com
+- https://www.youtube.com/channel/UCUhN-Vy-38Y1hMuiCCS0fvw (coderschool)
