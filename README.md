@@ -54,4 +54,12 @@ Example: https://www.youtube.com/watch?v=7A-LmQrvQmg
 
 Original is a video from Microsoft.
 
-In the description, it links to a ton more sites, including Tumblr, Twitter, a Discord Server, etc. I'm working on gathering more info for those...
+---
+
+Channel: Database Tutorials
+
+Example: https://www.youtube.com/watch?v=VMH2y_3XBa0
+
+Original is also a video from microsoft.
+
+In the description of both, it links to a ton more sites, including Tumblr, Twitter, a Discord Server, etc. I'm working on gathering more info for those...
