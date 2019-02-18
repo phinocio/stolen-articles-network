@@ -16,29 +16,31 @@ The main pages of viralroll, thegeeknews, and morioh.net have the exact same pag
 
 " Protect your Node.js app from Cross-Site Request Forgery"
 
-- Reddit link: https://archive.is/36Q0t and https://archive.is/3FD8u (note how it links to dev.thegeeknews.com)
+-   Reddit link: https://archive.is/36Q0t and https://archive.is/3FD8u (note how it links to dev.thegeeknews.com)
 
-- dev.thegeeknewslink: http://archive.is/Ov7ep (when clicking this on reddit, it redirects to morioh, note how archive shows it got redirected)
+-   dev.thegeeknewslink: http://archive.is/Ov7ep (when clicking this on reddit, it redirects to morioh, note how archive shows it got redirected)
 
-- morioh link: https://morioh.com/p/d455188e8698/protect-your-node-js-app-from-cross-site-request-forgery (live link because I can't seem to get it to archive...)
+-   morioh link: https://morioh.com/p/d455188e8698/protect-your-node-js-app-from-cross-site-request-forgery (live link because I can't seem to get it to archive...)
 
-- dev.to link: https://dev.to/dkundel/protect-your-nodejs-app-from-cross-site-request-forgery--46b9 (this is rehosted, but by the original author)
+-   dev.to link: https://dev.to/dkundel/protect-your-nodejs-app-from-cross-site-request-forgery--46b9 (this is rehosted, but by the original author)
 
-- Original link: https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html
+-   Original link: https://www.twilio.com/blog/2018/01/protect-your-node-js-app-from-cross-site-request-forgery.html
 
 ---
 
 "Finding And Fixing Node.js Memory Leaks: A Practical Guide"
 
-- reddit link: https://archive.is/3FD8u (links to go.morioh.net)
+-   reddit link: https://archive.is/3FD8u (links to go.morioh.net)
 
-- morioh link: (redirected from morioh.net) https://morioh.com/p/a0d43b5472be/finding-and-fixing-node-js-memory-leaks-a-practical-guide (also cant seem to archive it. Not how it says originally posted on codequs.com)
+-   morioh link: (redirected from morioh.net) https://morioh.com/p/a0d43b5472be/finding-and-fixing-node-js-memory-leaks-a-practical-guide (also cant seem to archive it. Not how it says originally posted on codequs.com)
 
-- codequs link: https://codequs.com/p/ry58OgNBV/finding-and-fixing-node-js-memory-leaks-a-practical-guide (if you scroll to the bottom, it says originally posted on dev.to, without directly linking)
+-   codequs link: https://codequs.com/p/ry58OgNBV/finding-and-fixing-node-js-memory-leaks-a-practical-guide (if you scroll to the bottom, it says originally posted on dev.to, without directly linking)
 
-- original link: https://dev.to/kmaschta/finding-and-fixing-nodejs-memory-leaks-a-practical-guide-3f5a
+-   original link: https://dev.to/kmaschta/finding-and-fixing-nodejs-memory-leaks-a-practical-guide-3f5a
 
 (more examples coming).
+
+-   https://archive.is/epolh
 
 ---
 
