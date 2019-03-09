@@ -5,3 +5,4 @@
 - viralroll.com
 - https://www.youtube.com/channel/UCUhN-Vy-38Y1hMuiCCS0fvw (coderschool)
 - https://www.youtube.com/channel/UCxcOPU5S9MiVkvbb_5jlS4g (database tutorials)
+- http://dev.thegeeknews.net/
